@@ -26,3 +26,12 @@ df = pd.read_csv("dataset.csv")
 
 # Display first few rows
 print(df.head())
+
+##📊 Applications
+
+- **Sentiment Analysis: Assign sentiment scores to text messages.
+- **Chatbot Development: Improve emoji-based responses.
+- **NLP Research: Analyze emoji usage in social media.
+  
+##📡 Also Available on Kaggle
+- **Find this dataset on Kaggle: [[Kaggle Dataset Link](https://www.kaggle.com/datasets/dhruvhada/emoji-sentiments-and-description)] 
