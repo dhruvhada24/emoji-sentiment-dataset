@@ -14,6 +14,15 @@ A dataset containing emojis, their textual descriptions, and sentiment scores. U
 - **CSV Format**: [dataset.csv](./dataset.csv)
 - **Excel Format**: [dataset.xlsx](./dataset.xlsx) *(if included in the repo)*
 
+## 📊 Applications
+
+- **Sentiment Analysis: Assign sentiment scores to text messages.
+- **Chatbot Development: Improve emoji-based responses.
+- **NLP Research: Analyze emoji usage in social media.
+  
+## 📡 Also Available on Kaggle
+- **Find this dataset on Kaggle: [[Kaggle Dataset Link](https://www.kaggle.com/datasets/dhruvhada/emoji-sentiments-and-description)] 
+
 ## 🔍 Usage Example
 
 You can load this dataset in Python using Pandas:
@@ -27,11 +36,3 @@ df = pd.read_csv("dataset.csv")
 # Display first few rows
 print(df.head())
 
-## 📊 Applications
-
-- **Sentiment Analysis: Assign sentiment scores to text messages.
-- **Chatbot Development: Improve emoji-based responses.
-- **NLP Research: Analyze emoji usage in social media.
-  
-## 📡 Also Available on Kaggle
-- **Find this dataset on Kaggle: [[Kaggle Dataset Link](https://www.kaggle.com/datasets/dhruvhada/emoji-sentiments-and-description)] 
