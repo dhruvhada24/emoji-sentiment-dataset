@@ -27,7 +27,7 @@ A dataset containing emojis, their textual descriptions, and sentiment scores. U
 
 You can load this dataset in Python using Pandas:
 
-# Python
+# Import Pandas
 import pandas as pd
 
 # Load dataset
